@@ -1,0 +1,9 @@
+body {
+    background-color: #bbb; /*#9d9d9d;*/
+}
+
+a {
+	font-size: 1.1em;
+	font-weight: bold;
+	text-decoration: underline;
+}
